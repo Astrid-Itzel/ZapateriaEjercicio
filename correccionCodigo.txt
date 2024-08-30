@@ -1,0 +1,6 @@
+// Comentarios
+
+Se modificaron cosas extras que no eran necesarias como los nombres de las variables,
+Se utilizó mucho tiempo para analizar el código.
+Faltó mayor comunicación al ir explicando las acciones.
+No se logró el funcionamiento al cien del programa.
